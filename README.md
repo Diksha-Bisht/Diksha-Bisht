@@ -50,6 +50,12 @@
         height="170"width="400" alt="streak graph" />
     </p>
     <h3 align="left">
+    📊Contributed Repositories:
+    </h3>
+    <p align="center">
+        <img src="[https://github-readme-stats.vercel.app/api?username=Diksha-Bisht&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&custom_title=Figures](https://github-contributor-stats.vercel.app/api?username=Diksha-Bisht&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)" height="200" alt="stats graph" />
+    </p>
+    <h3 align="left">
         Achievements:
     </h3>
     <img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=Diksha-Bisht&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies">
