@@ -36,34 +36,26 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"
             alt="pandas logo" />
     </div>
-    <h3 align="left" style="
-    padding: 0;
-    margin: 0;
-    margin-top: 10px;">
+    <h3 align="left">
     📊GitHub Stats:
     </h3>
 
-    <p align="left" style="
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    margin: 0;
-    margin-bottom: 10px;">
+    <p align="center">
         <img src="
         https://github-readme-stats.vercel.app/api?username=Diksha-Bisht&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1&custom_title=Figures"
         height="200" alt="stats graph" />
         <img src="https://streak-stats.demolab.com?user=Diksha-Bisht&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3"
-        height="170" alt="streak graph" />
+        height="170"width="800" alt="streak graph" />
     </p>
     <div align="center">
         <a href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
-            <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" style="margin-left: 5px;" height="50" alt="linkedin logo" />
+            <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" alt="linkedin logo" />
         </a>
         <a href="bishtdiksha096@gmail.com" target="_blank">
-            <img src="https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif" width="50"  style="margin-left: 5px;" height="50" alt="gmail logo" />
+            <img src="https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif" width="50" height="50" alt="gmail logo" />
         </a>
         <a href="https://www.hackerrank.com/bishtdiksha096" target="_blank">
-            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" style="margin-left: 5px;" alt="hackerrank logo" />
+            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" alt="hackerrank logo" />
         </a>
     </div>
 
