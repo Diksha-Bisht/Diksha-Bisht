@@ -7,7 +7,7 @@
     <p align="left">
         ✨Exploring Opportunities to solve real-world problems🌏<br>📚 I'm currently learning Data Science and Machine Learning<br>🎯 Passionate to be a Data Scientist.<br>🎲 Hobbies: Drawing, Public Speaking Badminton.
     </p>
-    <h3 align="left">💻My Tech Stack:</h3>
+    <h3 align="left" color="Blue">💻My Tech Stack:</h3>
     <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"
             alt="python logo" />
