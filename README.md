@@ -86,11 +86,3 @@
 </div>
 
 ###
-<body>
-    <div class="body">
-        <img align="center" width="1000" height="400"
-            src="https://www.analyticsinsight.net/wp-content/uploads/2021/08/Data-Analytics-vs-Data-Science-vs-Machine-Learning.jpg">
-    </div>
-    <div class="intro"></div>
-</body>
-</html>
