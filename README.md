@@ -49,6 +49,10 @@
         <img src="https://streak-stats.demolab.com?user=Diksha-Bisht&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3"
         height="170"width="600" alt="streak graph" />
     </p>
+    <h3 align="left">
+        Achievements:
+    </h3>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Diksha-Bisht&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies">
     <div align="center">
         <a href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
             <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" alt="linkedin logo" />
