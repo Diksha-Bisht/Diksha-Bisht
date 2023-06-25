@@ -57,8 +57,8 @@
         <a style=" margin:0; margin-left:6;" href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
             <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" alt="linkedin logo" />
         </a>
-        <a style=" margin:0; margin-left:6;" href="bishtdiksha096@gmail.com" target="_blank">
-            <img src="https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif" width="50" height="50" alt="gmail logo" />
+        <a style=" margin:0; margin-left:6;" href="https://www.instagram.com/__d_vine/" target="_blank">
+            <img src="[https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif](https://media.giphy.com/media/3o7bu7wtT19WfBAt0Y/source.gif)" width="50" height="50" alt="insta logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://www.hackerrank.com/bishtdiksha096" target="_blank">
             <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" alt="hackerrank logo" />
