@@ -55,7 +55,7 @@
     <img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=Diksha-Bisht&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies">
     <div align="center">
         <a style=" margin:0; margin-left:6;" href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
-            <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" alt="linkedin logo" />
+            <img src="https://th.bing.com/th/id/R.e7b83b3b26d103554749b75633464dcd?rik=q4CZVegIP1gVWw&riu=http%3a%2f%2fwww.everslegal.com%2fwp-content%2fuploads%2f2014%2f02%2flinkedin-300x300.png&ehk=7etWA0BXCNr2xmPeua7Xo%2fvUzx4pfTwriw8nGpCT4yA%3d&risl=&pid=ImgRaw&r=0" width="50" height="50" alt="linkedin logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://www.instagram.com/__d_vine/" target="_blank">
             <img src="https://marybaldwin.edu/wp-content/uploads/2018/10/instalogo-600x600.png" width="50" height="50" alt="insta logo" />
