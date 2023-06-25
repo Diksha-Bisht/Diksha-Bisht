@@ -20,6 +20,9 @@
         <img width="14" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"
             alt="css3 logo" />
+        <img width="14" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"
+            alt="MySQL logo" />
     </div>
     <h3 align="left">⚙️Tools and Libraries:</h3>
     <div align="left">
@@ -33,6 +36,9 @@
             alt="numpy logo" />
         <img width="14" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"
+            alt="pandas logo" />
+        <img width="14" />
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"
             alt="pandas logo" />
     </div>
     <h3 align="left">
