@@ -54,7 +54,7 @@
     </h3>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Diksha-Bisht&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies">
     <div align="center">
-        <a href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
+        <a style=" margin:0; margin-left:6px; " href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
             <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" alt="linkedin logo" />
         </a>
         <a href="bishtdiksha096@gmail.com" target="_blank">
