@@ -7,7 +7,7 @@
     <p align="left">
         ✨Exploring Opportunities to solve real-world problems🌏<br>📚 I'm currently learning Data Science and Machine Learning<br>🎯 Passionate to be a Data Scientist.<br>🎲 Hobbies: Drawing, Public Speaking Badminton.
     </p>
-    <h3 align="left" color="Blue">💻My Tech Stack:</h3>
+    <h3 align="left">💻My Tech Stack:</h3>
     <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"
             alt="python logo" />
@@ -54,13 +54,13 @@
     </h3>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Diksha-Bisht&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies">
     <div align="center">
-        <a style=" margin:0; margin-left:6px; " href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
+        <a style=" margin:0; margin-left:6;" href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
             <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" alt="linkedin logo" />
         </a>
-        <a href="bishtdiksha096@gmail.com" target="_blank">
+        <a style=" margin:0; margin-left:6;" href="bishtdiksha096@gmail.com" target="_blank">
             <img src="https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif" width="50" height="50" alt="gmail logo" />
         </a>
-        <a href="https://www.hackerrank.com/bishtdiksha096" target="_blank">
+        <a style=" margin:0; margin-left:6;" href="https://www.hackerrank.com/bishtdiksha096" target="_blank">
             <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" alt="hackerrank logo" />
         </a>
     </div>
