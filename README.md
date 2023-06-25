@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Diksha-Bisht
-- 👀 I’m interested in learning Data Science, ML along with diferent technologies.
-- 🌱 I’m currently exploring my opportunities.
-- 📫 How to reach me: 
-                 LinkedIn- https://www.linkedin.com/in/diksha-bisht-781314213
-                 HackerRank- https://www.hackerrank.com/bishtdiksha096?hr_r=1
-                       
-
-<!---
-Diksha-Bisht/Diksha-Bisht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div width="100%" height="100%" align="center">
+    <img align="center" width="1000" height="400" src="https://www.analyticsinsight.net/wp-content/uploads/2021/08/Data-Analytics-vs-Data-Science-vs-Machine-Learning.jpg">
+</div>
