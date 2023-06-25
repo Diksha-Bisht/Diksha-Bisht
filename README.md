@@ -58,7 +58,7 @@
             <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" alt="linkedin logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://www.instagram.com/__d_vine/" target="_blank">
-            <img src="https://www.dingodango.dk/wp-content/uploads/2020/02/InstaLogo_01.png" width="50" height="50" alt="insta logo" />
+            <img src="https://marybaldwin.edu/wp-content/uploads/2018/10/instalogo-600x600.png" width="50" height="50" alt="insta logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://www.hackerrank.com/bishtdiksha096" target="_blank">
             <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" alt="hackerrank logo" />
