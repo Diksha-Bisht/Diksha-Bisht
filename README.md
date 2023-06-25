@@ -21,7 +21,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"
             alt="css3 logo" />
     </div>
-
     <h3 align="left">⚙️Tools and Libraries:</h3>
     <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35"
@@ -39,7 +38,6 @@
     <h3 align="left">
     📊GitHub Stats:
     </h3>
-
     <p align="center">
         <img src="
         https://github-readme-stats.vercel.app/api?username=Diksha-Bisht&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1&custom_title=Figures"
@@ -58,11 +56,9 @@
             <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" alt="hackerrank logo" />
         </a>
     </div>
-
     <div align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=Diksha-Bisht.Diksha-Bisht&left_color=rebeccapurple&right_color=lightslategrey" />
     </div>
-
     <div align="center">
         <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Diksha-Bisht&theme=radical" alt="Layout with last medium posts" />
     </div>
