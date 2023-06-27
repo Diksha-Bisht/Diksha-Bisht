@@ -76,6 +76,3 @@
     <div align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=Diksha-Bisht.Diksha-Bisht&left_color=rebeccapurple&right_color=lightslategrey" />
     </div>
-    <div align="center">
-        <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Diksha-Bisht&theme=radical" alt="Layout with last medium posts" />
-    </div>
