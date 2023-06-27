@@ -5,7 +5,7 @@
     </p>
     <img align="right" height="300" width="500" src="https://miro.medium.com/max/1400/1*DkHSZc4O9PwUep1IRIG7cg.gif"/>
     <p align="left">
-        ✨Exploring Opportunities to solve real-world problems🌏<br>📚 I'm currently learning Data Science and Machine Learning<br>🎯 Passionate to be a Data Scientist.<br>🎲 Hobbies: Drawing, Public Speaking Badminton.
+        ✨Exploring Opportunities to solve real-world problems🌏<br>📚 I'm currently learning Data Science and Machine Learning<br>🎯 Passionate to be a Data Scientist.<br>🎲 Hobbies: Drawing, Public Speaking & Badminton.
     </p>
     <h3 align="left">💻My Tech Stack:</h3>
     <div align="left">
