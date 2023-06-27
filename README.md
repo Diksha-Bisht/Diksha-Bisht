@@ -5,7 +5,7 @@
     </p>
     <p align="right">
         <a href="https://drive.google.com/file/d/1DDvEDfsCps6Q94wv2WyPj-xa7gQt0J-x/view?usp=sharing">
-            <img src="https://drive.google.com/file/d/1IlkHlOX8n7nf0QzOZ9jYd9f93P-9aMyV/view?usp=sharing">
+            <img src="https://drive.google.com/file/d/1IlkHlOX8n7nf0QzOZ9jYd9f93P-9aMyV/view?usp=sharing"/>
         </a><--Click for my Resume.
     </p>
     <img align="right" height="300" width="500" src="https://miro.medium.com/max/1400/1*DkHSZc4O9PwUep1IRIG7cg.gif"/>
