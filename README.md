@@ -4,8 +4,9 @@
         I'm graduate in computer applications 👨‍💻 and pursuing Masters | I like learning and experimenting with new technologies⚡. | Do 🌟 my repository if you find my projects interesting.
     </p>
     <p align="right">
-        <a href="https://drive.google.com/file/d/1DDvEDfsCps6Q94wv2WyPj-xa7gQt0J-x/view?usp=sharing
-"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAABVElEQVR4nO2VPUpDQRRGT/XASkG0ULMDBVNokQ3oRhSXEMg2dAci1rqD2Fq4g6TWFVhdCUxhMZL3Ijfz9x34ILzMDC+Hb25ACCFEb6yQuGGFRAK8sEIiAV5Yj3wDU+AoZBqeNdOAWWTfrCUBx5F9Jy0J6CL7upYEnEf2jR1fODsBj5F9Ty0JMOAeOAx5cK5slgIscSTAC/sjX8AzcANcAAdh8nfh82X4brXms7YGvAA7A85YrX2tScBkg3Mm/3zhrASMNjhnVJOAD2B/wBl7wHtNAgxYAFc99l8Dy9qGoP3KHLgFToHdkDPgDnjbwg9PLsAyiQR4YYVEArywbZkeSLIG5IIEoAaQxRWwNWu8pnw2DTAJoO0GpEICUAPQFSCDGWCtD0GTANpuQCokADUAXQEq/hco5gqYBNB2A1IhAagB6AqQYAZYppEAL6yQSIAQQgjW8wOYaYur7gbR+gAAAABJRU5ErkJggg=="></a><--Click for my Resume.
+        <a href="https://drive.google.com/file/d/1DDvEDfsCps6Q94wv2WyPj-xa7gQt0J-x/view?usp=sharing">
+            <img src="https://drive.google.com/file/d/1IlkHlOX8n7nf0QzOZ9jYd9f93P-9aMyV/view?usp=sharing">
+        </a><--Click for my Resume.
     </p>
     <img align="right" height="300" width="500" src="https://miro.medium.com/max/1400/1*DkHSZc4O9PwUep1IRIG7cg.gif"/>
     <p align="left">
