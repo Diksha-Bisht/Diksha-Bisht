@@ -80,6 +80,3 @@
     <div align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=Diksha-Bisht.Diksha-Bisht&left_color=rebeccapurple&right_color=lightslategrey" />
     </div>
-    <div align="center">
-        <a herf="https://visitcount.itsvg.in/api?id=Diksha-Bisht&icon=0&color=0" target="https://visitcount.itsvg.in">Visit Me</a>
-    </div>
