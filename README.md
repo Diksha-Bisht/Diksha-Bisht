@@ -90,5 +90,5 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=Diksha-Bisht.Diksha-Bisht&left_color=rebeccapurple&right_color=lightslategrey" />
     </div>
     <p align="center">
-        <a href="https://drive.google.com/file/d/1w-d7S7R5DxrG-GDlLx5mLaIfeHPaEz6n/view?usp=sharing">📑</a><--Click for my Resume.
+        <a href="https://drive.google.com/file/d/1w-d7S7R5DxrG-GDlLx5mLaIfeHPaEz6n/view?usp=sharing">📑</a><--CLICK HERE FOR MY RESUME.
     </p>
