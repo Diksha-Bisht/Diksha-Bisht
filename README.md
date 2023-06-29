@@ -55,6 +55,9 @@
         <img src="https://streak-stats.demolab.com?user=Diksha-Bisht&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3"
         height="170"width="400" alt="streak graph" />
     </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Diksha-Bisht&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+    </p>
     <h3 align="left">
     👨‍💻Contributed Repositories:
     </h3>
