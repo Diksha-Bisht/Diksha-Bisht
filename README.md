@@ -56,7 +56,7 @@
         height="170"width="400" alt="streak graph" />
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Diksha-Bisht&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha-Bisht&theme=radical&hide_border=true" />
     </p>
     <h3 align="left">
     👨‍💻Contributed Repositories:
