@@ -63,7 +63,7 @@
     </h3>
     <p align="center">
         <img src="https://github-contributor-stats.vercel.app/api?username=Diksha-Bisht&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="200" alt="stats graph"/>
-        <img height="300" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula"/>
+        <img height="300" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=tokyonight&combine_all_yearly_contributions=true""/>
     </p>
     <h3 align="left">
         🏆Achievements:
