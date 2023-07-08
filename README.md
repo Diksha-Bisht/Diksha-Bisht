@@ -63,7 +63,7 @@
     </h3>
     <p align="center">
         <img src="https://github-contributor-stats.vercel.app/api?username=Diksha-Bisht&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="200" alt="stats graph" />
-        [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bishttheme=github-compact)](https://github.com/Diksha-Bisht/github-readme-activity-graph)
+        [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht)]([https://github.com/Diksha-Bisht](https://github.com/Diksha-Bisht/github-readme-activity-graph)
     </p>
     <h3 align="left">
         🏆Achievements:
