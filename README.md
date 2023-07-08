@@ -47,6 +47,9 @@
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"
             alt="pandas logo" />
     </div>
+    <br>
+    [! Diksha’s github activity graph](https://github.com/Diksha-Bisht/github-readme-activity-graph)
+    <br>
     <h3 align="left">
     📊GitHub Stats:
     </h3>
@@ -63,7 +66,6 @@
     </h3>
     <p align="center">
         <img src="https://github-contributor-stats.vercel.app/api?username=Diksha-Bisht&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="200" alt="stats graph" />
-        [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht)]([https://github.com/Diksha-Bisht](https://github.com/Diksha-Bisht/github-readme-activity-graph)
     </p>
     <h3 align="left">
         🏆Achievements:
