@@ -1,4 +1,5 @@
 <div>
+    <img height="300" width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula"/>
     [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula)](https://github.com/Diksha-Bisht/github-readme-activity-graph)
 </div>
 <h1 align="center">🙏Welcome to my profile</h1>
