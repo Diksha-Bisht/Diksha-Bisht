@@ -1,7 +1,3 @@
-<div>
-    <img height="300" width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula"/>
-    [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula)](https://github.com/Diksha-Bisht/github-readme-activity-graph)
-</div>
 <h1 align="center">🙏Welcome to my profile</h1>
     <h2 align="center">I'm Diksha Bisht</h2>
     <p align="left">
@@ -66,7 +62,8 @@
     👨‍💻Contributed Repositories:
     </h3>
     <p align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Diksha-Bisht&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="200" alt="stats graph" />
+        <img src="https://github-contributor-stats.vercel.app/api?username=Diksha-Bisht&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="200" alt="stats graph"/>
+        <img height="400" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula"/>
     </p>
     <h3 align="left">
         🏆Achievements:
