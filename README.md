@@ -47,7 +47,7 @@
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"
             alt="pandas logo" />
     </div>
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula)](https://github.com/Diksha-Bisht/github-readme-activity-graph)
     <h3 align="left">
     📊GitHub Stats:
     </h3>
