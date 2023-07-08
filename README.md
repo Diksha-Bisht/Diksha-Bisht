@@ -1,3 +1,6 @@
+<div>
+    [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula)](https://github.com/Diksha-Bisht/github-readme-activity-graph)
+</div>
 <h1 align="center">🙏Welcome to my profile</h1>
     <h2 align="center">I'm Diksha Bisht</h2>
     <p align="left">
@@ -47,7 +50,6 @@
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"
             alt="pandas logo" />
     </div>
-    [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diksha-Bisht&theme=dracula)](https://github.com/Diksha-Bisht/github-readme-activity-graph)
     <h3 align="left">
     📊GitHub Stats:
     </h3>
