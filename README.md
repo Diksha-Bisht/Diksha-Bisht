@@ -4,7 +4,7 @@
         I'm graduate in computer applications 👨‍💻 and pursuing Masters | I like learning and experimenting with new technologies⚡. | Do 🌟 my repository if you find my projects interesting.
     </p>
     <p align="right">
-        <a href="https://drive.google.com/file/d/1w-d7S7R5DxrG-GDlLx5mLaIfeHPaEz6n/view?usp=sharing">📑</a><--Click for my Resume.
+        <a href="[https://drive.google.com/file/d/1w-d7S7R5DxrG-GDlLx5mLaIfeHPaEz6n/view?usp=sharing](https://drive.google.com/file/d/1pj1OxaVL_XI1shm7wtBpWB7kLIHfBlJi/view?usp=share_link)">📑</a><--Click for my Resume.
     </p>
     <img align="right" height="300" width="500" src="https://miro.medium.com/max/1400/1*DkHSZc4O9PwUep1IRIG7cg.gif"/>
     <p align="left">
