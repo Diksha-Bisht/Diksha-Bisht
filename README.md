@@ -78,7 +78,7 @@
             <img src="https://th.bing.com/th/id/R.e7b83b3b26d103554749b75633464dcd?rik=q4CZVegIP1gVWw&riu=http%3a%2f%2fwww.everslegal.com%2fwp-content%2fuploads%2f2014%2f02%2flinkedin-300x300.png&ehk=7etWA0BXCNr2xmPeua7Xo%2fvUzx4pfTwriw8nGpCT4yA%3d&risl=&pid=ImgRaw&r=0" width="50" height="50" alt="linkedin logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/bishtdikquu2" target="_blank">
-            <img src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks" alt="https://auth.geeksforgeeks.org/user/bishtdikquu2" width="50" height="50" alt="insta logo" />
+            <img src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks" alt="https://www.geeksforgeeks.org/user/bishtdikquu2/" width="50" height="50" alt="insta logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://www.hackerrank.com/bishtdiksha096" target="_blank">
             <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" alt="hackerrank logo" />
