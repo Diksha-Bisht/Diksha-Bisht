@@ -1,7 +1,7 @@
 <h1 align="center">🙏Welcome to my profile</h1>
     <h2 align="center">I'm Diksha Bisht</h2>
     <p align="left">
-        I'm graduate in computer applications 👨‍💻 and pursuing Masters | I like learning and experimenting with new technologies⚡. | Do 🌟 my repository if you find my projects interesting.
+        I'm graduate in computer applications 👨‍💻 and pursuing Masters | I am a highly motivated achiever with expertise in data analysis (Python, Power BI, ETL), web devel- opment (HTML, CSS), and Office tools. Developed award-winning projects and worked on projects for government organizations. | I like learning and experimenting with new technologies⚡. | Do 🌟 my repository if you find my projects interesting.
     </p>
     <p align="right">
         <a href="https://drive.google.com/file/d/12XECNSj8kd5vF00vP5xSdDZP8emNkohK/view?usp=share_link">📑</a><--Click for my Resume.
