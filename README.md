@@ -75,10 +75,10 @@
     <img align="center" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="trophies">
     <div align="center">
         <a style=" margin:0; margin-left:6;" href="https://www.linkedin.com/in/diksha-bisht-781314213" target="_blank">
-            <img src="https://th.bing.com/th/id/R.e7b83b3b26d103554749b75633464dcd?rik=q4CZVegIP1gVWw&riu=http%3a%2f%2fwww.everslegal.com%2fwp-content%2fuploads%2f2014%2f02%2flinkedin-300x300.png&ehk=7etWA0BXCNr2xmPeua7Xo%2fvUzx4pfTwriw8nGpCT4yA%3d&risl=&pid=ImgRaw&r=0" width="50" height="50" alt="linkedin logo" />
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://www.hackerrank.com/bishtdiksha096" target="_blank">
-            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" alt="hackerrank logo" />
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="50" alt="hackerrank logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://diksha-bisht.netlify.app" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" height="50" alt="kaggle logo" />
