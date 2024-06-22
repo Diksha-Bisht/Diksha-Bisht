@@ -81,7 +81,7 @@
             <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=3524" width="50" height="50" alt="hackerrank logo" />
         </a>
         <a style=" margin:0; margin-left:6;" href="https://diksha-bisht.netlify.app" target="_blank">
-            <img src="https://www.iconfinder.com/icons/2216341/earth_globe_location_map_world_world_globe_icon" width="50" height="50" alt="kaggle logo" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" height="50" alt="kaggle logo" />
         </a>
     </div>
     <div align="center">
