@@ -1,7 +1,7 @@
 <h1 align="center">🙏Welcome to my profile</h1>
     <h2 align="center">I'm Diksha Bisht</h2>
     <p align="left">
-        I'm graduate in computer applications 👨‍💻 and pursuing Masters | I am a highly motivated achiever with expertise in data analysis (Python, Power BI, ETL), web development (HTML, CSS), and Office tools. Developed awardwinning projects and worked on projects for government organizations. | I like learning and experimenting with new technologies⚡. | Do 🌟 my repository if you find my projects interesting.
+        Hello, My name is Diksha Bisht, I am an AI Engineer and Data Science enthusiast specializing in Large Language Models (LLMs) and creating effective Retrieval-Augmented Generation (RAG) applications. With a solid foundation in Data Analytics and a knack for tools like Power BI, SQL, and MS Office, I bring data to life. As a student and researcher in Data Science, I leverage cutting-edge technologies such as Pinecone, Streamlit, Snowflake, and more to deliver insightful and impactful solutions. Explore my work and connect with me to harness the power of AI and data for your projects.
     </p>
     <p align="right">
         <a href="https://drive.google.com/file/d/12XECNSj8kd5vF00vP5xSdDZP8emNkohK/view?usp=share_link">📑</a><--Click for my Resume.
