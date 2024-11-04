@@ -4,7 +4,7 @@
         Hello, My name is Diksha Bisht, I am an AI Engineer and Data Science enthusiast specializing in Large Language Models (LLMs) and creating effective Retrieval-Augmented Generation (RAG) applications. With a solid foundation in Data Analytics and a knack for tools like Power BI, SQL, and MS Office, I bring data to life. As a student and researcher in Data Science, I leverage cutting-edge technologies such as Pinecone, Streamlit, Snowflake, and more to deliver insightful and impactful solutions. Explore my work and connect with me to harness the power of AI and data for your projects.
     </p>
     <p align="right">
-        <a href="https://drive.google.com/file/d/1Gon1o0W1YbA6n5RhA8bN6ggts_8eZ9SW/view?usp=share_link">📑</a><--Click for my Resume.
+        <a href="">📑</a><--Click for my Resume.
     </p>
     <img align="right" height="300" width="500" src="https://miro.medium.com/max/1400/1*DkHSZc4O9PwUep1IRIG7cg.gif"/>
     <p align="left">
@@ -84,5 +84,5 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=Diksha-Bisht.Diksha-Bisht&left_color=rebeccapurple&right_color=lightslategrey" />
     </div>
     <p align="center">
-        <a href="https://drive.google.com/file/d/1Gon1o0W1YbA6n5RhA8bN6ggts_8eZ9SW/view?usp=share_link">📑</a><--CLICK HERE FOR MY RESUME.
+        <a href="">📑</a><--CLICK HERE FOR MY RESUME.
     </p>
