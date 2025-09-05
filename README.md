@@ -18,37 +18,41 @@ Currently, I’m **Operations Manager at Embtel Web Solutions Pvt Ltd**, leading
 ---
 
 ## 🧰 Tech & Tools
+<!-- GIF aligned right -->
+<img align="right" src="./Skills.mp4" width="300" alt="Coding gif">
+<p align="left">
 
-**Core:** 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
-</p>
-
-**ML/AI:** 
-<p>
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFAE00?logo=huggingface&logoColor=black">
-  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white">
-  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-0E8FF4?logo=pinecone&logoColor=white">
-</p>
-
-**Data & Viz:**
-<p>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
-  <img alt="Looker Studio" src="https://img.shields.io/badge/Looker Studio-217346?logo=microsoft-excel&logoColor=white">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-1C3C3C?logo=graph&logoColor=white">
-</p>
-
-**Dev:**
-<p>
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
-  <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4B8BBE">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  **Core:**
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white">
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+    <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  </p>
+  
+  **ML/AI:** 
+  <p>
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFAE00?logo=huggingface&logoColor=black">
+    <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black">
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white">
+    <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-0E8FF4?logo=pinecone&logoColor=white">
+  </p>
+  
+  **Data & Viz:**
+  <p>
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+    <img alt="Looker Studio" src="https://img.shields.io/badge/Looker Studio-217346?logo=microsoft-excel&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-1C3C3C?logo=graph&logoColor=white">
+  </p>
+  
+  **Dev:**
+  <p>
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+    <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4B8BBE">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  </p>
 </p>
     <h3 align="left">
     📊GitHub Stats:
