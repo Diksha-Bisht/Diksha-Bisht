@@ -1,52 +1,55 @@
-<h1 align="center">🙏Welcome to my profile</h1>
-    <h2 align="center">I'm Diksha Bisht</h2>
-    <p align="left">
-        Hello, My name is Diksha Bisht, I am an AI Engineer and Data Science enthusiast specializing in Large Language Models (LLMs) and creating effective Retrieval-Augmented Generation (RAG) applications. With a solid foundation in Data Analytics and a knack for tools like Power BI, SQL, and MS Office, I bring data to life. As a student and researcher in Data Science, I leverage cutting-edge technologies such as Pinecone, Streamlit, Snowflake, and more to deliver insightful and impactful solutions. Explore my work and connect with me to harness the power of AI and data for your projects.
-    </p>
-    <p align="right">
-        <a href="https://drive.google.com/file/d/1dbfnj7nRGL3CQttGcAg3ZT4ntwP9j2w_/view?usp=sharing">📑</a><--Click for my Resume.
-    </p>
-    <img align="right" height="300" width="500" src="https://miro.medium.com/max/1400/1*DkHSZc4O9PwUep1IRIG7cg.gif"/>
-    <p align="left">
-        ✨Exploring Opportunities to solve real-world problems🌏<br>
-        📚I'm currently learning Data Science and Machine Learning<br>
-        🎯Passionate to be a Data Scientist.<br>
-        🎲Hobbies: Drawing, Public Speaking & Badminton.
-    </p>
-    <h3 align="left">💻My Tech Stack:</h3>
-    <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"
-            alt="python logo" />
-        <img width="14" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"
-            alt="javascript logo" />
-        <img width="14" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"
-            alt="html5 logo" />
-        <img width="14" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"
-            alt="css3 logo" />
-        <img width="14" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"
-            alt="MySQL logo" />
-    </div>
-    <h3 align="left">⚙️Tools and Libraries:</h3>
-    <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35"
-            alt="anaconda logo" />
-        <img width="14" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35"
-            alt="tensorflow logo" />
-        <img width="14" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"
-            alt="numpy logo" />
-        <img width="14" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"
-            alt="pandas logo" />
-        <img width="14" />
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"
-            alt="pandas logo" />
-    </div>
+<!-- Profile README for Diksha Bisht -->
+
+<h1 align="center">Hi, I'm Diksha Bisht 👋</h1>
+<p align="center">
+  <b>Data & AI Enthusiast</b> — I build intelligent, data-driven solutions and love turning complex datasets into simple, actionable stories. 
+</p>
+<p align="center">
+  <a href="https://diksha-bisht096.netlify.app" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:bishtdiksha096@gmail.com">✉️ Email</a>
+</p>
+
+---
+
+## 🚀 About Me
+I’m a data & AI enthusiast focused on analytics, automation, and ML-powered applications. My recent work spans **RAG systems**, **chatbots**, **sales/marketing automation**, and **interactive dashboards** that drive business decisions fast.  
+Currently, I’m **Operations Manager at Embtel Web Solutions Pvt Ltd**, leading cross-functional teams and aligning delivery with client outcomes. *(Jul 2025 – Present)*
+
+---
+
+## 🧰 Tech & Tools
+
+**Core:** 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+</p>
+
+**ML/AI:** 
+<p>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFAE00?logo=huggingface&logoColor=black">
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white">
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-0E8FF4?logo=pinecone&logoColor=white">
+</p>
+
+**Data & Viz:**
+<p>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+  <img alt="Looker Studio" src="https://img.shields.io/badge/Looker Studio-217346?logo=microsoft-excel&logoColor=white">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-1C3C3C?logo=graph&logoColor=white">
+</p>
+
+**Dev:**
+<p>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+  <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4B8BBE">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</p>
     <h3 align="left">
     📊GitHub Stats:
     </h3>
