@@ -90,6 +90,4 @@ Currently, I’m **Operations Manager at Embtel Web Solutions Pvt Ltd**, leading
     <div align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=Diksha-Bisht.Diksha-Bisht&left_color=rebeccapurple&right_color=lightslategrey" />
     </div>
-    <p align="center">
-        <a href="https://drive.google.com/file/d/1dbfnj7nRGL3CQttGcAg3ZT4ntwP9j2w_/view?usp=sharing">📑</a><--CLICK HERE FOR MY RESUME.
-    </p>
+   
